@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Mrikedesignx
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me 
-
-<!---
-Mrikedesignx/Mrikedesignx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Meteorology and Climate Science Student
+@KNUST-Kumasi, Dep. Academic Board Head 
+@SCISA-KNUST, MECSSA-KNUST Dep. Publicity Head
+StudentLeadership, Learner, GraphicDesigner 
+and a CodeLover 
